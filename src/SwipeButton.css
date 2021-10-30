@@ -1,0 +1,26 @@
+.swipeButton {
+  position: fixed;
+  bottom: 3vh;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+.swipeButton .MuiIconButton-root {
+  background-color: aliceblue;
+}
+.swipeButton__left {
+  color: orange;
+}
+.swipeButton__star {
+  color: silver;
+}
+.swipeButton__flash {
+  color: yellow;
+}
+.swipeButton__favorite {
+  color: pink;
+}
+.swipeButton__right {
+  color: red;
+}
